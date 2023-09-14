@@ -1,0 +1,6 @@
+# Local pickle file of card data # 
+### 
+*.pkl
+
+# Jupyter Notebook Checkpoints # 
+*.ipynb_checkpoints/
