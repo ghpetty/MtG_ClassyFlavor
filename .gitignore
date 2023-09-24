@@ -2,5 +2,12 @@
 ### 
 *.pkl
 
+
 # Jupyter Notebook Checkpoints # 
 *.ipynb_checkpoints/
+
+# pycache? #
+__pycache__/
+
+# Sandbox script for testing things out #
+CF_sandbox.py
