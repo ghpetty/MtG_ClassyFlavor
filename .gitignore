@@ -11,3 +11,7 @@ __pycache__/
 
 # Sandbox script for testing things out #
 CF_sandbox.py
+
+# .env for API keys etc
+*.env
+*.env.*
