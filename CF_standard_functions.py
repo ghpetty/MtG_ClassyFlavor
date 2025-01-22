@@ -12,6 +12,7 @@ import requests,time
 import numpy as np
 import pandas as pd
 import re
+from pathlib import Path
 
 # For seeing how old a file is when deciding whether to load it
 def file_age_in_hours(file_path):

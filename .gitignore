@@ -15,3 +15,7 @@ CF_sandbox.py
 # .env for API keys etc
 *.env
 *.env.*
+
+# Hidden files on Mac
+.DS_store
+.virtual_documents/
